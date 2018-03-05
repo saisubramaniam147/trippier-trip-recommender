@@ -1,0 +1,10 @@
+c:\users\madfa\source\repos\Trippier\Trippier\bin\Debug\Trippier.exe.config
+c:\users\madfa\source\repos\Trippier\Trippier\bin\Debug\Trippier.exe
+c:\users\madfa\source\repos\Trippier\Trippier\bin\Debug\Trippier.pdb
+c:\users\madfa\source\repos\Trippier\Trippier\obj\Debug\Trippier.csprojResolveAssemblyReference.cache
+c:\users\madfa\source\repos\Trippier\Trippier\obj\Debug\Trippier.Properties.Resources.resources
+c:\users\madfa\source\repos\Trippier\Trippier\obj\Debug\Trippier.csproj.GenerateResource.Cache
+c:\users\madfa\source\repos\Trippier\Trippier\obj\Debug\Trippier.csproj.CoreCompileInputs.cache
+c:\users\madfa\source\repos\Trippier\Trippier\obj\Debug\Trippier.exe
+c:\users\madfa\source\repos\Trippier\Trippier\obj\Debug\Trippier.pdb
+c:\users\madfa\source\repos\Trippier\Trippier\obj\Debug\Trippier.Tripper.resources
